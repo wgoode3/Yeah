@@ -1,10 +1,10 @@
 # Yeah
 
-This project was generated with the [Coding Dojo: MVC starter]("https://www.nuget.org/packages/Dojo.Starter/").
+This project was generated with the [Coding Dojo: MVC starter](https://www.nuget.org/packages/Dojo.Starter/).
 
 ## About
 
-This template exists to provide [Coding Dojo]("https://www.codingdojo.com/") students with a convenient way to start new ASP.NET Core MVC projects.
+This template exists to provide [Coding Dojo](https://www.codingdojo.com/) students with a convenient way to start new ASP.NET Core MVC projects.
 
 ## Development 
 
